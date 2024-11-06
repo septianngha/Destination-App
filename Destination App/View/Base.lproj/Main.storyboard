@@ -245,7 +245,7 @@
                                     <constraint firstAttribute="height" constant="200" id="vcP-vc-O0W"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="septiannugraha@gmail.com" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PTD-7q-mJ0">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="septiannugraha341@gmail.com" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PTD-7q-mJ0">
                                 <rect key="frame" x="39" y="513" width="315" height="49"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="315" id="j5M-wP-qWa"/>
