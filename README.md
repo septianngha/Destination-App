@@ -17,7 +17,8 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 
 - Swift - The main technology used is swift
-- Uses API to display data, the API data used can be seen at the following link. https://tourism-api.dicoding.dev/list
+- Uses API to display data, the API data used can be seen at the following link.
+  https://tourism-api.dicoding.dev/list
 - Uses TableView to display tourist destination data
 - Implements Custom Table Cell to be displayed on TableView
 - Implements Tab Bar Controller to move from one view to another
